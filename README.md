@@ -11,7 +11,7 @@ Portfolio de mes projets de data science.
 [Lien github](https://github.com/MatieuAllier/ASHRAE/blob/master/Projet_energie.ipynb)   
 ASHRAE était une compétition où l'objectf était de prédire la consomation en énergie d'un batiment à partir de données météorologiques et des caractéristiques des batiments.   
 Language utilisé : Python   
-Library utilisés : Pandas, Seaborn, Matplotlib, Sklearn et lightgbm
+Library utilisés : Pandas, Seaborn, Matplotlib,Sklearn et lightgbm
 
 ## Problème de regression
 
