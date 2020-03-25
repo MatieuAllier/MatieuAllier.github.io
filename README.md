@@ -1,6 +1,10 @@
 # Portfolio
 Portfolio de mes projets de data science.
 
+### A propos de moi
+
+Je suis actuellement en Master 2 Statistiques pour l'évalusation et la prévision à l'université de Reims Champagne-Ardenne. Je suis à la recherche d'un stage dans le domaine de la Data Science.
+
 ### Mes liens
 - [Mon Linkedin](https://www.linkedin.com/in/matieu-allier-749b42195/)
 - [Mon github](https://github.com/MatieuAllier)
