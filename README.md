@@ -5,31 +5,15 @@ Portfolio de mes projets de data science.
 - [Mon Linkedin](https://www.linkedin.com/in/matieu-allier-749b42195/)
 - [Mon github](https://github.com/MatieuAllier)
 
-## Markdown
+## Competition Kaggle
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### ASHRAE
+[Lien github](https://github.com/MatieuAllier/ASHRAE/blob/master/Projet_energie.ipynb)
+ASHRAE était une compétition où l'objectf était de prédire la consomation en énergie d'un batiment à partir de données météorologiques et des caractéristiques des batiments.
+Language utilisé : Python
+Library utilisés : Pandas, Seaborn, Matplotlib, Sklearn et lightgbm
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
+## Problème de regression
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MatieuAllier/matieuallier.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
