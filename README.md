@@ -16,7 +16,7 @@ ASHRAE était une compétition où l'objectf était de prédire la consomation e
 ## Problème de regression
 
 ### Prédiction du nombre de location de vélo
-[Lien github](https://github.com/MatieuAllier/Projet_Velo/blob/master/Projet_Velo.ipynb) | [Base de données](https://archive.ics.uci.edu/ml/datasets/bike+sharing+dataset#) 
+[Lien github](https://github.com/MatieuAllier/Projet_Velo/blob/master/Projet_Velo.ipynb) | [Base de données](https://archive.ics.uci.edu/ml/datasets/bike+sharing+dataset#)  
 L'idée de ce projet est de prédire le nombre de location de vélo du service Capital Bikeshare ( service de location de la ville de Washington D.C.) en fonction du temps et des données météorologiques. Un autre objectif du projet est d'utiliser l'optimisation bayesienne pour le réglage des hyper-paramétres.   
 **Language utilisé :** Python   
 **Library utilisés :** Pandas, Seaborn, Matplotlib, Sklearn, lightgbm et BayesianOptimization  
