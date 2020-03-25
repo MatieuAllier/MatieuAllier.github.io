@@ -1,11 +1,11 @@
-## Portfolio de Matieu Allier
-
+# Portfolio
 Portfolio de mes projets de data science.
 
 ### Mes liens
 - [Mon Linkedin](https://www.linkedin.com/in/matieu-allier-749b42195/)
+- [Mon github](https://github.com/MatieuAllier)
 
-### Markdown
+## Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
