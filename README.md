@@ -1,8 +1,9 @@
-# A propos de moi
+## Portfolio de Matieu Allier
 
-You can use the [editor on GitHub](https://github.com/MatieuAllier/matieuallier.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Portfolio de mes projets de data science.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Mes liens
+- [Mon Linkedin](https://www.linkedin.com/in/matieu-allier-749b42195/)
 
 ### Markdown
 
