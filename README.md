@@ -8,7 +8,7 @@ Portfolio de mes projets de data science.
 ## Compétition Kaggle
 
 ### ASHRAE
-[Lien github](https://github.com/MatieuAllier/ASHRAE/blob/master/Projet_energie.ipynb) [Lien de la compétition](https://www.kaggle.com/c/ashrae-energy-prediction)   
+[Lien github](https://github.com/MatieuAllier/ASHRAE/blob/master/Projet_energie.ipynb) | [Lien de la compétition](https://www.kaggle.com/c/ashrae-energy-prediction)   
 ASHRAE était une compétition où l'objectf était de prédire la consomation en énergie d'un batiment à partir de données météorologiques et des caractéristiques des batiments.   
 Language utilisé : Python   
 Library utilisés : Pandas, Seaborn, Matplotlib,Sklearn et lightgbm
